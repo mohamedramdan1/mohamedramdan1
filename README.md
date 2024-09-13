@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mohamedramdan1
-- 👀 I’m interested in Bioinfornatics
-- 🌱 I’m currently learning  Ai $ Machine learning 
-- 💞️ I’m looking to collaborate on Ai
+- I am Graduted From Faculty of Computer Science & AI (Bioinformatic Departement)
+- 👀 I’m interested in Full Stack Web Devloper
+- 🌱 I’m currently Front-End Angular17 web devloper
+- 💞️ I’m looking to collaborate on Front-End angular17
 - 📫 How to reach me select on my Email mohamedramdan10.2001@gmail.com
 
 <!---
